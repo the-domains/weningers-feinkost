@@ -1,7 +1,7 @@
 ---
 description: 'Trailer:'
-dateModified: '2016-05-31T08:16:35.393Z'
-datePublished: '2016-05-31T08:16:35.503Z'
+dateModified: '2016-05-31T08:16:23.017Z'
+datePublished: '2016-05-31T08:16:23.113Z'
 title: 'Patschen.Kino "COCONUT HERO" (CAN/D 2015)'
 author:
   - name: WeTh
