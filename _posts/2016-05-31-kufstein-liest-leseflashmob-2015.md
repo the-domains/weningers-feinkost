@@ -61,10 +61,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=2uGZeRe6y04'
 title: 'KUFSTEIN LIEST! - Leseflashmob 2015'
-datePublished: '2016-05-31T09:32:00.395Z'
-dateModified: '2016-05-31T09:32:00.302Z'
-starred: false
+datePublished: '2016-05-31T14:17:51.252Z'
+dateModified: '2016-05-31T14:17:46.731Z'
 sourcePath: _posts/2016-05-31-kufstein-liest-leseflashmob-2015.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
