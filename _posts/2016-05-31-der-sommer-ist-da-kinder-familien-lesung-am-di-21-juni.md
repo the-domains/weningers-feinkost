@@ -1,19 +1,18 @@
 ---
 description: 'Eintritt FREI-willige Kulturbeiträge werden gerne angenommen! Anmeldung empfohlen: per Mail.'
-dateModified: '2016-05-31T16:01:44.995Z'
-datePublished: '2016-05-31T16:02:00.617Z'
+dateModified: '2016-05-31T08:23:30.299Z'
+datePublished: '2016-05-31T16:02:04.427Z'
 title: '"DER SOMMER IST DA!" KINDER + FAMILIEN-LESUNG am Di. 21 Juni von 15.00 - 16.00 Uhr '
-author:
-  - name: WeTh
-sourcePath: _posts/2016-05-31-der-sommer-ist-da-kinder-familien-lesung-am-di-21-juni.md
+author: []
 starred: false
+sourcePath: _posts/2016-05-31-der-sommer-ist-da-kinder-familien-lesung-am-di-21-juni.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7880a4a9-1d89-45c9-b2e7-af9c55255884.jpg" /><h1>"DER SOMMER IST DA!" KINDER + FAMILIEN-LESUNG am Di. 21 Juni von 15.00 - 16.00 Uhr </h1><p>Heute beginnt der SOMMER! Deshalb lesen Tom und Brigitte aus den herzigsten, lustigsten und schrägsten Ferien-Kinderbüchern vor - und kühlen Gießkannensaft und Tralala gibt es auch! Vielleicht können wir bei Schönwetter draußen unterm Apfelbaum sitzen? Wir freuen uns auf einen kunterbunten Nachmittag mit vielen kleinen + großen Bücherfreund_innen. </p></article>
+<article style=""><h1>"DER SOMMER IST DA!" KINDER + FAMILIEN-LESUNG am Di. 21 Juni von 15.00 - 16.00 Uhr </h1><p>Heute beginnt der SOMMER! Deshalb lesen Tom und Brigitte aus den herzigsten, lustigsten und schrägsten Ferien-Kinderbüchern vor - und kühlen Gießkannensaft und Tralala gibt es auch! Vielleicht können wir bei Schönwetter draußen unterm Apfelbaum sitzen? Wir freuen uns auf einen kunterbunten Nachmittag mit vielen kleinen + großen Bücherfreund_innen. </p></article>
 
 Eintritt FREI-willige Kulturbeiträge werden gerne angenommen! Anmeldung empfohlen: _[per Mail][0]_.
 
