@@ -1,12 +1,12 @@
 ---
 description: 'Eintritt FREI-willige Kulturbeiträge werden gerne angenommen! Anmeldung empfohlen: per Mail.'
-dateModified: '2016-05-31T14:38:05.270Z'
-datePublished: '2016-05-31T14:38:05.339Z'
+dateModified: '2016-05-31T16:01:40.758Z'
+datePublished: '2016-05-31T16:01:41.240Z'
 title: '"DER SOMMER IST DA!" KINDER + FAMILIEN-LESUNG am Di. 21 Juni von 15.00 - 16.00 Uhr '
 author:
   - name: WeTh
 sourcePath: _posts/2016-05-31-der-sommer-ist-da-kinder-familien-lesung-am-di-21-juni.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
