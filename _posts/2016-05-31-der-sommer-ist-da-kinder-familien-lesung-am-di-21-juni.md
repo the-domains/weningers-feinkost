@@ -1,7 +1,7 @@
 ---
 description: 'Eintritt FREI-willige Kulturbeiträge werden gerne angenommen! Anmeldung empfohlen: per Mail.'
-dateModified: '2016-05-31T08:23:41.203Z'
-datePublished: '2016-05-31T08:23:41.265Z'
+dateModified: '2016-05-31T08:23:41.188Z'
+datePublished: '2016-05-31T08:23:41.266Z'
 title: '"DER SOMMER IST DA!" KINDER + FAMILIEN-LESUNG am Di. 21 Juni von 15.00 - 16.00 Uhr '
 author: []
 starred: false
