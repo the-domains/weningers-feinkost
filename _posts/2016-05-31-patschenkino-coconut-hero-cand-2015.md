@@ -1,12 +1,12 @@
 ---
 description: Hier gehts zum YOU-TUBE TRAILER
-dateModified: '2016-06-02T08:21:18.399Z'
-datePublished: '2016-06-02T08:21:18.952Z'
+dateModified: '2016-06-02T08:21:24.388Z'
+datePublished: '2016-06-02T08:21:24.907Z'
 title: 'Mo. 6. Juni Patschen.Kino "COCONUT HERO" (Dt./CAN 2015) Coming-Of-Age Dramödie'
 author:
   - name: WeTh
 sourcePath: _posts/2016-05-31-patschenkino-coconut-hero-cand-2015.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
