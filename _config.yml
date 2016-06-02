@@ -1,14 +1,14 @@
-layout_spectrum: 0.44181810901500285
-typography_spectrum: 0.726782004814595
+layout_spectrum: 0.8432612156029791
+typography_spectrum: 0.8581250372808427
 color:
-  brandStrength: 0.8950486518442631
-  lightness: 0.6772095398046076
-  saturation: 0.16796263912692666
-  rhythmicContrast: 0.3877703142352402
+  brandStrength: 0.20372603670693934
+  lightness: 0.3093568554613739
+  saturation: 0.7571628508158028
+  rhythmicContrast: 0.6144975768402219
   brandColors:
-    - '#FF6138'
-    - '#FFFF9D'
-    - '#BEEB9F'
-    - '#79BD8F'
-    - '#00A388'
+    - '#88A825'
+    - '#35203B'
+    - '#911146'
+    - '#CF4A30'
+    - '#ED8C2B'
 name: weningers fein.kost
