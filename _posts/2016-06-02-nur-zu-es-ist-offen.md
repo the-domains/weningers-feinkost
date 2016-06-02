@@ -1,12 +1,12 @@
 ---
 description: 'Unsere Öffnungszeiten daher: MONTAG von 14-18 Uhr // DIENSTAG-FREITAG von 9:30-12:30 Uhr und von 14-18 Uhr // SAMSTAG von 9:30-13 Uhr. Wir freuen uns auf deinen Besuch!'
-dateModified: '2016-06-02T08:20:39.560Z'
-datePublished: '2016-06-02T08:20:42.177Z'
+dateModified: '2016-06-02T08:21:08.938Z'
+datePublished: '2016-06-02T08:21:09.614Z'
 title: 'Nur zu, es ist OFFEN!'
 author:
   - name: WeTh
-starred: true
 sourcePath: _posts/2016-06-02-nur-zu-es-ist-offen.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
