@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[weningers fein.kost]]></title>
         <description><![CDATA[weningers fein.kost]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/weningers-feinkost/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 31 May 2016 15:12:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jul 2016 15:09:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/weningers-feinkost/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KUFSTEIN LIEST! - Leseflashmob 2015]]></title>
-            <description><![CDATA[<article><h1>KUFSTEIN LIEST! - Leseflashmob 2015</h1><p>Dass Lesen Aufregendes bewirken und Generationen bewegen kann bewiesen die KufsteinerInnen auch dieses Jahr beim 6. KUFSTEIN LIEST!-Lese.Glückflashmob. Um 17 Uhr fiel am Unteren Stadtplatz das Startsignal zum kollektiven Lesen und 236 Flashmob-Fans vertieften sich in ihre Lieblingsbücher. Danach wurde beim Glück.Tage-POETRYSLAM um die Wette gelesen. 8 mutige Teilnehmerinnen ritterten am Mikrofon um die Gunst des Publikums und der Jury. Die rund 120 Zuseherinnen wurde auf der Terrasse von Kemals LIEBELEI mit Allem versorgt, was Leib und Seele fürs Glück.Empfinden brauchen. ;)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22993505143cdab3dcd3ee2ce44ee0dd14a3d417.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>KUFSTEIN LIEST! - Leseflashmob 2015</h1><p>Dass Lesen Aufregendes bewirken und Generationen bewegen kann bewiesen die KufsteinerInnen auch dieses Jahr beim 6. KUFSTEIN LIEST!-Lese.Glückflashmob. Um 17 Uhr fiel am Unteren Stadtplatz das Startsignal zum kollektiven Lesen und 236 Flashmob-Fans vertieften sich in ihre Lieblingsbücher. Danach wurde beim Glück.Tage-POETRYSLAM um die Wette gelesen. 8 mutige Teilnehmerinnen ritterten am Mikrofon um die Gunst des Publikums und der Jury. Die rund 120 Zuseherinnen wurde auf der Terrasse von Kemals LIEBELEI mit Allem versorgt, was Leib und Seele fürs Glück.Empfinden brauchen. ;)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37cefe3d5e0a2a177f70e6df46bb10156cc8d11a.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=2uGZeRe6y04</link>
             <guid isPermaLink="false">eefa0c6a-de5b-45a7-ad06-1cf05d83b31f</guid>
             <pubDate>Tue, 31 May 2016 15:11:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fc5f72e-83ee-4c39-87ca-0e187a82e097.jpg">]]></description>
+            <link>https://thegrid.ai/weningers-feinkost/761f0920-8761-4920-84f7-619f377bf655/index.html</link>
+            <guid isPermaLink="false">761f0920-8761-4920-84f7-619f377bf655</guid>
+            <pubDate>Thu, 21 Jul 2016 15:08:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
